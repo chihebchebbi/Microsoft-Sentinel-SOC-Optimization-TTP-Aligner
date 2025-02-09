@@ -1,0 +1,7 @@
+Client_ID = "Client_ID_Here"
+Client_Secret = "Client_Secret_Here"
+EntraID_Tenant = "EntraID_Tenant_Here"
+Workspace = "Workspace_Here"
+WorkspaceID ="WorkspaceID_Here"
+subscriptionID = "subscriptionID_Here"
+ResourceGroup = "ResourceGroup_Here"
