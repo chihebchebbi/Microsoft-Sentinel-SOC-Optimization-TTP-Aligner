@@ -1,0 +1,1 @@
+# Microsoft-Sentinel-SOC-Optimization-TTP-Aligner
