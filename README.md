@@ -8,7 +8,7 @@
 - **Atomic Red Team** tests for adversary simulation.
 - **MITRE ATT&CK Navigation Layers** for visualizing TTPs.
 
-![TTP Aligner](https://via.placeholder.com/800x400.png?text=TTP+Aligner)
+![TTP Aligner](https://i.imgur.com/kZAerl1.png)
 
 By leveraging **TTP Aligner**, security teams can efficiently map Sentinel recommendations to actionable detection and testing strategies, improving threat coverage and SOC efficiency.
 
@@ -26,6 +26,9 @@ git clone  https://github.com/chihebchebbi/Microsoft-Sentinel-SOC-Optimization-T
 
 # Navigate to the project directory
 cd Microsoft-Sentinel-SOC-Optimization-TTP-Aligner
+
+# Install the required Library pandas
+pip install pandas
 ```
 
 ## Configuration
