@@ -42,7 +42,7 @@ ResourceGroup = "ResourceGroup_Here"
 
 ## Usage
 ```bash
-python MicrosoftSentinelSOCOptimizationTTP-Aligner.py
+python MicrosoftSentinelSOCOptimizationTTPAligner.py
 ```
 
 
