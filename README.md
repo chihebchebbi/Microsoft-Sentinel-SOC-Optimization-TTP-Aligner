@@ -1,14 +1,14 @@
 # Microsoft Sentinel SOC Optimization TTP Aligner
 
-# TTP Aligner
 
-![TTP Aligner](https://via.placeholder.com/800x400.png?text=TTP+Aligner)
 
 ## Overview
 **TTP Aligner** is a tool designed to extract **Tactics, Techniques, and Procedures (TTPs)** related to **Microsoft Sentinel SOC optimization recommendations** and align them with:
 - Available **Sigma Rules** for detection.
 - **Atomic Red Team** tests for adversary simulation.
 - **MITRE ATT&CK Navigation Layers** for visualizing TTPs.
+
+![TTP Aligner](https://via.placeholder.com/800x400.png?text=TTP+Aligner)
 
 By leveraging **TTP Aligner**, security teams can efficiently map Sentinel recommendations to actionable detection and testing strategies, improving threat coverage and SOC efficiency.
 
